@@ -7,12 +7,12 @@ Using Power BI, I built an interactive dashboard to visualize key insights, such
 Key Insights and Features
 1. General Streaming Statistics
 
-    Total Streams: 486 billion
-    Average Streams per Track: 515.55 million
-    Total Tracks Analyzed: 942
-    Total Artists Covered: 457
+  Total Streams: 486 billion
+  Average Streams per Track: 515.55 million
+  Total Tracks Analyzed: 942
+  Total Artists Covered: 457
 
-2. Top Artists by Number of Tracks
+2.Top Artists by Number of Tracks
 
 The most featured artists in the dataset include:
 
@@ -46,15 +46,6 @@ The dashboard also includes insights into track characteristics such as:
     Energy: 64.34
     Danceability: 66.96
     Valence (Happiness Metric): 51.40
-
-6. Ranking & Playlist Presence
-
-The dashboard highlights detailed rankings for top tracks across different platforms, including:
-
-    Apple Music Rank & Playlist Count
-    Deezer Rank & Playlist Count
-    Spotify Rank & Playlist Count
-
 Tools & Technologies Used
 
     Dataset Source: Kaggle
